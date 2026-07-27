@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+deepface
+tensorflow
+opencv-python-headless
+numpy
+python-dotenv
+retina-face
+pydantic
+gunicorn
