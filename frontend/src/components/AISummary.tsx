@@ -164,4 +164,4 @@ function AISummary({ history }: AISummaryProps) {
   );
 }
 
-export default AISummary;
+export default AISummary;   
